@@ -1,0 +1,81 @@
+# Carbon Monitor Projection Plots
+
+Public image export generated from `products/CM_Projection/plots`.
+
+- Updated at: 2026-06-03 20:10:16
+- Image files: 72
+
+## Files
+
+- `by_sector/default_en_brazil_domestic_aviation.jpg`
+- `by_sector/default_en_brazil_ground_transport.jpg`
+- `by_sector/default_en_brazil_industry.jpg`
+- `by_sector/default_en_brazil_international_aviation.jpg`
+- `by_sector/default_en_brazil_power.jpg`
+- `by_sector/default_en_brazil_residential.jpg`
+- `by_sector/default_en_china_domestic_aviation.jpg`
+- `by_sector/default_en_china_ground_transport.jpg`
+- `by_sector/default_en_china_industry.jpg`
+- `by_sector/default_en_china_international_aviation.jpg`
+- `by_sector/default_en_china_power.jpg`
+- `by_sector/default_en_china_residential.jpg`
+- `by_sector/default_en_eu27_domestic_aviation.jpg`
+- `by_sector/default_en_eu27_ground_transport.jpg`
+- `by_sector/default_en_eu27_industry.jpg`
+- `by_sector/default_en_eu27_international_aviation.jpg`
+- `by_sector/default_en_eu27_power.jpg`
+- `by_sector/default_en_eu27_residential.jpg`
+- `by_sector/default_en_india_domestic_aviation.jpg`
+- `by_sector/default_en_india_ground_transport.jpg`
+- `by_sector/default_en_india_industry.jpg`
+- `by_sector/default_en_india_international_aviation.jpg`
+- `by_sector/default_en_india_power.jpg`
+- `by_sector/default_en_india_residential.jpg`
+- `by_sector/default_en_japan_domestic_aviation.jpg`
+- `by_sector/default_en_japan_ground_transport.jpg`
+- `by_sector/default_en_japan_industry.jpg`
+- `by_sector/default_en_japan_international_aviation.jpg`
+- `by_sector/default_en_japan_power.jpg`
+- `by_sector/default_en_japan_residential.jpg`
+- `by_sector/default_en_row_domestic_aviation.jpg`
+- `by_sector/default_en_row_ground_transport.jpg`
+- `by_sector/default_en_row_industry.jpg`
+- `by_sector/default_en_row_international_aviation.jpg`
+- `by_sector/default_en_row_international_shipping.jpg`
+- `by_sector/default_en_row_power.jpg`
+- `by_sector/default_en_row_residential.jpg`
+- `by_sector/default_en_russian_federation_domestic_aviation.jpg`
+- `by_sector/default_en_russian_federation_ground_transport.jpg`
+- `by_sector/default_en_russian_federation_industry.jpg`
+- `by_sector/default_en_russian_federation_international_aviation.jpg`
+- `by_sector/default_en_russian_federation_power.jpg`
+- `by_sector/default_en_russian_federation_residential.jpg`
+- `by_sector/default_en_united_kingdom_domestic_aviation.jpg`
+- `by_sector/default_en_united_kingdom_ground_transport.jpg`
+- `by_sector/default_en_united_kingdom_industry.jpg`
+- `by_sector/default_en_united_kingdom_international_aviation.jpg`
+- `by_sector/default_en_united_kingdom_power.jpg`
+- `by_sector/default_en_united_kingdom_residential.jpg`
+- `by_sector/default_en_united_states_domestic_aviation.jpg`
+- `by_sector/default_en_united_states_ground_transport.jpg`
+- `by_sector/default_en_united_states_industry.jpg`
+- `by_sector/default_en_united_states_international_aviation.jpg`
+- `by_sector/default_en_united_states_power.jpg`
+- `by_sector/default_en_united_states_residential.jpg`
+- `by_sector/default_en_world_domestic_aviation.jpg`
+- `by_sector/default_en_world_ground_transport.jpg`
+- `by_sector/default_en_world_industry.jpg`
+- `by_sector/default_en_world_international_aviation.jpg`
+- `by_sector/default_en_world_international_shipping.jpg`
+- `by_sector/default_en_world_power.jpg`
+- `by_sector/default_en_world_residential.jpg`
+- `default_en_Brazil.jpg`
+- `default_en_China.jpg`
+- `default_en_EU27.jpg`
+- `default_en_India.jpg`
+- `default_en_Japan.jpg`
+- `default_en_ROW.jpg`
+- `default_en_Russian Federation.jpg`
+- `default_en_United Kingdom.jpg`
+- `default_en_United States.jpg`
+- `default_en_WORLD.jpg`
