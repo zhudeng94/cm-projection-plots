@@ -2,7 +2,7 @@
 
 Public image export generated from `products/CM_Projection/plots`.
 
-- Updated at: 2026-11-09 21:42:19
+- Updated at: 2026-11-14 22:00:30
 - Image files: 72
 
 ## Files
